@@ -64,6 +64,11 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'namespace' => 'Admin', 'mi
 });
 
 
+Route::group(['prefix'=>'category', 'as' => 'category.', 'namespace' => 'Category'], function(){
+
+    Route::get('search', 'CategoryController@search')->name('category.search');
+});
+
 Route::get('/', 'HomeController@index');
 
 /**

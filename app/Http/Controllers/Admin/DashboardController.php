@@ -19,7 +19,7 @@ class DashboardController extends Controller
 
     /**
      * Show the application dashboard.
-     *
+     * \resources\views\admin\dashboard.blade.php
      * @return \Illuminate\Http\Response
      */
     public function index()

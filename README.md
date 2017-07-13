@@ -11,7 +11,7 @@
 
 # Laravel 5 Boilerplate Project
 
-This README came from https://github.com/Labs64/laravel-boilerplate/wiki
+- This README came from https://github.com/Labs64/laravel-boilerplate/wiki
 _Laravel Boilerplate_ provides a very flexible and extensible way of building your custom Laravel 5 applications.
 
 ## Table of Contents
