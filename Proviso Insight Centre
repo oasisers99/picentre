@@ -1,0 +1,20 @@
+Proviso Insight Centre
+=============================================================================================
+- Search businss names in a specific country using category.
+- Rank the result based on the frequency.
+	- Also show the most frequent linking words like "car centre"
+- Search the most popular brand names in the category like Coles, Woolworths, etc.
+- Drag and drop words that you want to include in REGEX
+- Make a Create REGEX button to... create REGEX!
+- Use REGEX to extract data from Jay and drop it into csv file.
+=============================================================================================
+
+
+
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=petcare+in+Australia&key=AIzaSyD2yMGaGlyaL9ByHoOMnchwKhBuQwr8kb8
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=petcare+in+New+zealand&key=AIzaSyD2yMGaGlyaL9ByHoOMnchwKhBuQwr8kb8
+
+
+rankby - prominence
+
+\\10.1.1.1\CategorisationTrelloEffortEstimates\CategorisationBoardEffortAll.xlsx
